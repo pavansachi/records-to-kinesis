@@ -1,0 +1,3 @@
+com/model/Order.class
+com/App.class
+com/aws/AWSKinesisClient.class
